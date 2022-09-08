@@ -1,2 +1,2 @@
 #!/bin/bash
-where am i
+This is my current working directory!
